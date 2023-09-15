@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.underStarter{
+   padding-top: 4rem;
+    padding-bottom: 13rem;
+}
+.underStarter h1{
+    font-size: 2.7rem;
+    font-weight: bold;
+    
+}
+.start-button{
+    background-color: #212529;
+}
+.start-button:hover{
+    background-color: #F8F9FA;
+    color: black;
+}
+.div-button{
+    column-gap: 10rem
+}
+
+.right-img{
+    width: 600px;
+    height: 400px;
+}
+
+.middlePage{
+    margin-top: 6rem;
+    width: 100%;
+   margin-inline-end: 10rem;
+ 
+    
+    
+}
+.middleSvg{
+    border: 1px solid #0D6EFD;
+    border-radius: 5px;
+}
+.middlePage1{
+  
+    justify-content: flex-start;
+}
+.aboveAverage{
+    margin-top: 10rem;
+}
+.aboveAverage2 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
