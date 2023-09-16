@@ -20,7 +20,10 @@
 .underStarter h1{
     font-size: 2.7rem;
     font-weight: bold;
-    
+}
+.underStarter img{
+    width: 600px;
+    height: 400px;
 }
 .start-button{
     background-color: #212529;
@@ -42,9 +45,14 @@
     margin-top: 6rem;
     width: 100%;
    margin-inline-end: 10rem;
- 
-    
-    
+
+}
+.aboveAverage1 img{
+    width: 40px;
+    height: 40px;
+}
+.aboveAverage{
+    padding: 8rem;
 }
 .middleSvg{
     border: 1px solid #0D6EFD;
@@ -54,30 +62,42 @@
   
     justify-content: flex-start;
 }
-.aboveAverage{
-    margin-top: 10rem;
-}
-.aboveAverage2 img{
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-}
 
-.aboveAverage2{
-    margin-bottom: 10rem;
+.cardFeatures1 a{
+    font-size: 0.8rem;
 }
-/*
-.followingCards{
+.mainCards img{
     width: 600px;
     height: 350px;
     padding: 0;
     max-width: 100%;
     max-height: 100%;
-   
 }
-.followingCards1{
-    font-size: 0.7rem;
-    
-}
-*/
 
+.cardPromotion img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion{
+    margin-top: 2.5rem;
+}
+.cardPromotion1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion1{
+    margin-top: 1rem;
+}
+.cardPromotion2 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion2{
+    margin-top: 1rem;
+}
+.aside{
+    padding: 2rem;
+}
