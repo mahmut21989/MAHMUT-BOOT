@@ -73,7 +73,9 @@
     max-width: 100%;
     max-height: 100%;
 }
-
+.mainCards1{
+    margin-bottom: 5rem;
+}
 .cardPromotion img{
     width: 40px;
     height: 40px;
@@ -98,6 +100,25 @@
 .cardPromotion2{
     margin-top: 1rem;
 }
+.startAside{
+    margin-bottom: 8rem;
+   
+}
 .aside{
     padding: 2rem;
+    border: 1px solid #0D6EFD;
+    border-radius: 0.7rem;
 }
+
+.form{
+    width: 14rem;
+    border-radius: 0.4rem;
+    border: none;  
+}
+.form1{
+    border-radius: 0.4rem;
+    border: none; 
+
+}
+
+
