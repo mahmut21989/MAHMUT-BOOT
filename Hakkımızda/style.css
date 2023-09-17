@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.start-navbar{
+    background-color: #212529;
+
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.beginning{
+    margin-top: 8rem;
+}
+.centerAbout{
+    margin-top: 5rem;
+}
+
+.centerAbout img{
+    width: 600px;
+    height: 400px;
+}
+.growth{
+    margin-top: 10rem;
+}
+.lowerGrowth img{
+    width: 600px;
+    height: 400px;
+}
+.ourLawyers{
+    margin-top: 11rem;
+}
+
+.ourStaff img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.ourStaff{
+    
+}

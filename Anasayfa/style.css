@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+.underStarter{
+   padding-top: 4rem;
+    padding-bottom: 13rem;
+}
+.underStarter h1{
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+.underStarter img{
+    width: 600px;
+    height: 400px;
+}
+.start-button{
+    background-color: #212529;
+}
+.start-button:hover{
+    background-color: #F8F9FA;
+    color: black;
+}
+.div-button{
+    column-gap: 10rem
+}
+
+.right-img{
+    width: 600px;
+    height: 400px;
+}
+
+.middlePage{
+    margin-top: 6rem;
+   
+   
+
+}
+.aboveAverage1 img{
+    width: 40px;
+    height: 40px;
+}
+.aboveAverage{
+    padding: 8rem;
+    margin-bottom: 6rem;
+}
+.middleSvg{
+    border: 1px solid #0D6EFD;
+    border-radius: 5px;
+}
+.middlePage1{
+  
+    justify-content: flex-start;
+}
+
+.cardFeatures1 a{
+    font-size: 0.8rem;
+}
+.mainCards img{
+    width: 600px;
+    height: 350px;
+    padding: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+.mainCards1{
+    margin-bottom: 5rem;
+}
+.cardPromotion img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion{
+    margin-top: 2.5rem;
+}
+.cardPromotion1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion1{
+    margin-top: 1rem;
+}
+.cardPromotion2 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.cardPromotion2{
+    margin-top: 1rem;
+}
+.startAside{
+    margin-bottom: 8rem;
+   
+}
+.aside{
+    padding: 2rem;
+    border: 1px solid #0D6EFD;
+    border-radius: 0.7rem;
+}
+
+.form{
+    width: 14rem;
+    border-radius: 0.4rem;
+    border: none;  
+}
+.form1{
+    border-radius: 0.4rem;
+    border: none; 
+
+}
+
+
