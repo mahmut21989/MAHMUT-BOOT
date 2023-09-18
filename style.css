@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: nones;
+}
+
+.start-navbar{
+    background-color: #212529;
+
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+/*
+.communicationİcon svg{
+  width: 40px;
+  height: 35px;
+  color: white;
+  padding: 5px;
+  border: 1px color#0D6EFD solid;
+  border-radius: 5px;
+  margin-top: 5rem;
+  font-size: 3rem;
+}
+.communicationİcon h1{
+    font-size: 3rem;
+} 
+*/
+.perPage{
+    margin-top: 4rem;
+}
+.perPage i{
+    border-radius: 5px;
+    color: white;
+}
+.perPageEnd{
+    display: inline-flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
+}
+.perPageEnd input{
+    
+    width: 30rem;
+    margin-bottom: 0.8rem;
+}
+.form-messenger input{
+    height: 9rem !important;
+}
+
+
+.form-floating{
+    width: 20rem;
+}
+#name{
+    width: 40rem;
+    height: 4rem;
+   border: 1px solid black;
+    margin-top: 2rem;
+}
+.before-end{
+    margin-top: 7rem;
+}
+
+.finish-icon{
+    background-color: #0D6EFD;
+    display: inline-flex;
+    align-items:center ;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    padding-bottom: 3px;
+    font-size: 2em;
+    color: white;
+   
+   
+}
+.icon-wrapper{
+    display: inline-flex;
+    align-items:center ;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    padding-bottom: 3px;
+}
+
+
