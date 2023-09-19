@@ -15,3 +15,21 @@
 .navbar-toggler{
     background-color: white;
 }
+.start-web{
+    margin-top: 10rem;
+}
+.centerCard{
+    background-color: #F8F9FA;
+    margin-top: 5rem;
+}
+.centerList{
+    list-style-type: none;
+}
+.finishButton button{
+    width: 15rem;
+    margin-top: 2rem;
+}
+.finishButton1{
+    width: 15rem;
+    margin-top: 1.5rem;
+}
