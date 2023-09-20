@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+.startTest{
+    margin-top: 10rem;
+}
+.startİmg{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.privateQuestions p{
+    font-size: 1.2rem;
+}
+.iconsPage i{
+    margin-left: 8px;
+    display:inline-block;
+}
+
