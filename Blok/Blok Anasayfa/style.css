@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+.navbar-toggler{
+    background-color: white;
+}
+.start-blog{
+    margin-top: 5rem;
+}
+.start-card{
+    text-align: justify;
+}
+.img-start{
+    height: 600px;
+}
+
+
+.center-img{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+.middleİcon i{
+   padding: 0.5rem;
+}
+.finish-text{
+    margin-top: 10rem;
+}
+.aboveAverage1 img{
+    width: 40px;
+    height: 40px;
+}
+.finish-card1{
+    margin-top: 10rem;
+}
