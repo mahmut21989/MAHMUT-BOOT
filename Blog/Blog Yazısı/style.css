@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+
+.startH1{
+    margin-top: 2rem;
+}
+.commentBorder{
+    width: 50rem;
+}
+.last-comments img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+.img-comment{
+    column-gap: 20px !important;
+}
+.img-can{
+    margin-left: 70px;
+}
