@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.start-navbar{
+    background-color: #212529;
+}
+.nav-link:hover{
+    color: gainsboro !important;
+}
+.navbar-toggler{
+    background-color: white;
+}
+.start-web{
+    margin-top: 10rem;
+}
+.start-img img{
+    width: 600px;
+    height: 400px;   
+}
+.finish h2{
+    font-size: 3.5rem;
+    margin-top: 8rem;
+}
+.finish-lower{
+    margin-top: 7rem;
+}
